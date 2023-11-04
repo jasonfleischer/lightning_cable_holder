@@ -10,7 +10,7 @@ This is a [OpenSCAD](https://openscad.org/) project that produces a 3D model for
 For changing the design to have a different number of holes you will need [OpenSCAD](https://openscad.org/). Open the file named 'ligtning_cable_holder.scad' with OpenSCAD. On line 7, change the value of the variable named "number_of_holes". Export the new .stl file.
 
 ## Developer / Author
-Jason Fleischer  
+Jason Fleischer    
 [https://jasonfleischer.github.io/website/](https://jasonfleischer.github.io/website/)  
 
 Support the Developer  
