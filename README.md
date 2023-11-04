@@ -3,7 +3,7 @@
 ## Description
 This is a [OpenSCAD](https://openscad.org/) project that produces a 3D model for an apple lightning cablee holder. The stl file is used for 3D printing.
 
-### This project can be found on thingiverse
+This project can be found on thingiverse:  
 [thingiverse - lightning_cable_holder](https://www.thingiverse.com/thing:6297035)
 
 ## Instructions
