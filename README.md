@@ -16,6 +16,6 @@ Jason Fleischer
 #### Support the Developer: 
 [KoFi](https://ko-fi.com/jasonfleischer)
 
-### Images
+## Images:
 ![Screenshot](./images/2-holes.png "Sreenshot")
 ![Screenshot2](./images/3d-print-install.jpeg "Sreenshot2")
