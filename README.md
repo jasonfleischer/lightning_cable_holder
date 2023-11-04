@@ -14,7 +14,7 @@ Jason Fleischer
 [https://jasonfleischer.github.io/website/](https://jasonfleischer.github.io/website/)
 
 #### Support the Developer: 
-[KoFi](https://ko-fi.com/jasonfleischer)
+[https://ko-fi.com/jasonfleischer](https://ko-fi.com/jasonfleischer)
 
 ## Images:
 ![Screenshot](./images/2-holes.png "Sreenshot")
